@@ -4,7 +4,7 @@ This plugin allows to easily hide all frames to have "Prezi" like presentation e
 ![hide frames showcase](docs/miro-hide-frames.gif)
 
 ## Installation
-[CLICK HERE](https://miro.com/oauth/authorize/?response_type=token&client_id=3074457347050574725&redirect_uri=https://kaszaq.github.io/miro-chart-importer/installComplete.html) to install plugin in Miro.
+[CLICK HERE](https://miro.com/oauth/authorize/?response_type=token&client_id=3074457347050574725&redirect_uri=https://kaszaq.github.io/miro-hide-frames/installComplete.html) to install plugin in Miro.
 
 ## Why
 Prezi allows cool zoom in/out/rotation of entire board presentation experience. 
