@@ -17,5 +17,5 @@ With this plugin it is possible to hide frames hence they no longer interfere wi
 
 To have "Prezi" like presentation experience.
 
-## Known features, upcoming features
+## Known issues & upcoming features
 None
