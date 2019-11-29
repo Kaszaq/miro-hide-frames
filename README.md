@@ -18,4 +18,4 @@ With this plugin it is possible to hide frames hence they no longer interfere wi
 To have "Prezi" like presentation experience.
 
 ## Known issues & upcoming features
-None
+* authentication doesn't work as expected. Even when user is authenticated he is forced to reload the board. With multiple plugins that would require such action from the user it could be a bad UX.
