@@ -17,7 +17,7 @@ function contains(a1, a2) {
 class Authorizer {
     authorizeOptions = {
         response_type: 'token',
-        redirect_uri: 'http://' + window.location.host + '/authFinished.html'
+        redirect_uri: 'https://kaszaq.github.io/miro-hide-frames/authFinished.html'
     };
 
     constructor(requiredScope) {
