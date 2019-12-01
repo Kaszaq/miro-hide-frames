@@ -8,7 +8,10 @@
 </head>
 <body>
 <script type="text/javascript">
-    close()
+    if(window.opener) {
+        // Close this window
+        window.opener.miroAuthorized()
+    }
 </script>
 
 </body>
