@@ -15,13 +15,14 @@ function contains(a1, a2) {
 }
 
 class Authorizer {
-    authorizeOptions = {
-        response_type: 'token',
-        redirect_uri: 'https://kaszaq.github.io/miro-hide-frames/authFinished.html'
-    };
+    
     constructor(requiredScope) {
         this.requiredScope = requiredScope;
         this.authz = false;
+		this.authorizeOptions = {
+			response_type: 'token',
+			redirect_uri: 'https://kaszaq.github.io/miro-hide-frames/authFinished.html'
+		};
     }
 
     async authorized() {
